@@ -1,0 +1,7 @@
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-google-genai==1.0.3
+duckduckgo-search==5.3.1b1
+python-dotenv==1.0.1
+numexpr==2.8.8
