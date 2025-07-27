@@ -40,7 +40,7 @@ This project is an ideal showcase for a startup interview, as it demonstrates th
 Cognos operates on a continuous cycle until it arrives at a final answer. This iterative process allows it to build context and refine its approach at each step.
 
 <p align="center">
-  <img src="https://i.imgur.com/v14D35D.png" alt="ReAct Loop Diagram" width="700"/>
+  <img src="https://tsmatz.wordpress.com/wp-content/uploads/2024/03/20230307_react_diagram_update.jpg?w=829" alt="ReAct Loop Diagram" width="700"/>
 </p>
 
 1.  **Thought:** Based on the user's query, the LLM thinks about what it needs to do next. It considers its goal and the tools it has available.
