@@ -60,7 +60,8 @@ Cognos operates on a continuous cycle until it arrives at a final answer:
 
 4.  **Set up your API Key:**
     Create a file named `.env` in the `cognos_project` directory and add your Google Gemini API key:
-    ```GOOGLE_API_KEY="your-gemini-api-key"
+    ```
+    GOOGLE_API_KEY="your-gemini-api-key"
 
     ```
 
